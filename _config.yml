@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/ksekes"
+baseurl: #"/ksekes"
 url: "https://ksekes90.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
