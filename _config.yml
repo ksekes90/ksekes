@@ -80,6 +80,7 @@ sass:
   sass_dir: _sass
   style: :compressed
 # plugin
+# test
 exclude:
   - Gemfile
   - Gemfile.lock
